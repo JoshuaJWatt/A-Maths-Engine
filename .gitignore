@@ -32,7 +32,7 @@
 *.app
 
 # VS Files
-.vcxproj
-.sln
+*.vcxproj
+*.sln
 
-Debug
+*Debug
