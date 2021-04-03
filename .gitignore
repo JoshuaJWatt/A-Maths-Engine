@@ -32,7 +32,11 @@
 *.app
 
 # VS Files
-*.vcxproj
-*.sln
+.vcxproj
+.sln
 
-*Debug
+Debug
+A Maths Engine.sln
+*.vcxproj
+A Maths Engine/A Maths Engine.vcxproj.filters
+A Maths Engine/A Maths Engine.vcxproj.user
